@@ -85,3 +85,5 @@ if _name_ == "_main_":
                 raise e
 
 ```
+
+Adblock list:``` https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
